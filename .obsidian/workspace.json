@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Expressar/index.md",
+                "file": "--Inbox/Flávio Sueth 10 06 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Flávio Sueth 10 06 2025"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -160,23 +160,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "552e3c8d710ab989",
   "lastOpenFiles": [
+    "--Inbox/Os Bairros.md",
+    "--Inbox/Flávio Sueth 10 06 2025.md",
+    "--Inbox/Claudia 06 06 2025.md",
+    "04-Expressar/index.md",
     "03-Destilar/index.md",
     "02-Organizar/index.md",
     "01-Capturar/index.md",
     "--Tarefas/O que vamos fazer hoje.md",
     "--Inbox/Visão geral.md",
     "--Inbox/Os meios de transporte.md",
-    "--Inbox/Os Bairros.md",
     "--Inbox/Atributos das personas.md",
     "--Inbox/As Personas.md",
     "--Inbox/As Ferramentas.md",
@@ -198,9 +201,6 @@
     "--Inbox/Ferramentas/Pixar Storytelling.md",
     "--Inbox/Ferramentas/Markdown.md",
     "--Inbox/Ferramentas/Job to be Done.md",
-    "--Inbox/Ferramentas/Diagrama Mermaid.md",
-    "--Inbox/Documentos/Termo de Conscientização Sobre Riscos Climáticos (TCRC).md",
-    "--Inbox/Documentos/Registro Único de Conduta Aquática (RUCA).md",
     "--Inbox/anexos/RevMapa.png",
     "04-Expressar/--Tarefas",
     "04-Expressar/--Inbox/Personas/anexos/Pasted image 20250516232215.png",
